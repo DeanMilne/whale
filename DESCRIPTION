@@ -1,0 +1,14 @@
+Package: whale
+Title: What the Package Does (print shit to screen)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Dean",
+           family = "Milne",
+           role = c("aut", "cre"),
+           email = "deano14m@gmail.com")
+Description: Thingo.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
