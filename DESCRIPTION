@@ -14,3 +14,8 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 URL: https://github.com/DeanMilne/whale
 BugReports: https://github.com/DeanMilne/whale/issues
+Imports: 
+    glue
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
